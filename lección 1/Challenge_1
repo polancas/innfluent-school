@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html>
+
+    <head>
+            <title>Sentar una silla</title>
+    </head>
+
+    <body>
+
+            <h1>Busque una silla</h1>
+
+            <p><b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, beatae?</b></p>
+            <p><i>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, sequi.</i></p>
+            <p><u>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem, nihil!</u></p>
+    </body>
+
+
+
+
+
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+
+<html>
+
+    <head>
+            <title>Pagina...</title>
+    </head>
+
+    <body>
+
+            <h1>Busque una silla</h1>
+            <h2>Sentarse</h2>
+
+            <p><b><del> ipsum dolor sit amet consectetur adipisicing elit. Distinctio, beatae?</del></b></p>
+            <p><b><markLorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, sequi.</b></p>
+            <p><u>Lorem ipsum, dolor sit amet consectetur <br>adipisicing elit. Voluptatem, nihil!<br/> </u></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Accusamus doloremque sed perferendis, eaque
+                repudiandae alias architecto neque quasi recusandae dolorem natus illo corrupti.</br> Et, libero?</p>
+    
+    
+    
+    </body>
+
+</html>
